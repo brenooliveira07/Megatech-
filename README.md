@@ -50,4 +50,4 @@ Também são utilizadas políticas de segurança do Supabase para controlar o ac
 
 ## Objetivo
 
-O MegaTech foi desenvolvido como projeto escolar com o objetivo de aplicar conhecimentos de desenvolvimento web, banco de dados e organização de sistemas.
+O MegaTech foi desenvolvido destinado ao gerenciamento integrado de estoque e vendas, com o propósito de automatizar processos operacionais, aprimorar o controle sobre a movimentação de produtos, aumentar a confiabilidade e a integridade dos dados e fornecer informações que contribuam para uma gestão mais eficiente e fundamentada na tomada de decisões. 
